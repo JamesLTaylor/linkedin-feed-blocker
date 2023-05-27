@@ -5,11 +5,27 @@
         "linkedin-feed-blocker.css"
       ],
       "matches": [
+        "*://*.linkedin.com/feed/*"
+      ]
+    },
+    {
+      "css": [
+        "linkedin-badge-blocker.css"
+      ],
+      "matches": [
         "*://*.linkedin.com/*"
+      ]
+    },
+    {
+      "css": [
+        "linkedin-network-blocker.css"
+      ],
+      "matches": [
+        "*://*.linkedin.com/mynetwork/*"
       ]
     }
   ],
-  "description": "Block your LinkedIn feed to remove updates from your network, companies you follow, recommended content, and sponsored content.",
+  "description": "Block as many distractions as possible",
   "icons": {
     "16": "img/ghost-16.png",
     "128": "img/ghost-128.png",

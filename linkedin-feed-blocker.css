@@ -1,8 +1,9 @@
-.feed-new-update-pill__new-update-button,
-.feed-right-rail,
-.feed-shared-update-v2,
-.nav-item__badge--doughnut,
-.feed-shared-news-module,
-.feed-follows-module {
+.scaffold-finite-scroll,
+.scaffold-finite-scroll--infinite,
+.scaffold-layout__aside,
+.feed-identity-module__anchored-widget--premium-upsell,
+.artdeco-dropdown__trigger,
+.feed-identity-module__widgets
+.community-panel {
 	display: none !important;
 }

@@ -1,0 +1,7 @@
+.artdeco-card {
+	display: none !important;
+}
+.mn-community-summary__section,
+.mn-invitations-preview {
+	display: block !important;
+}

@@ -1,0 +1,4 @@
+.notification-badge__no-count,
+.notification-badge {
+	display: none !important;
+}
