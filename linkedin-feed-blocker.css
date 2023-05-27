@@ -1,9 +1,10 @@
 .scaffold-finite-scroll,
 .scaffold-finite-scroll--infinite,
-.scaffold-layout__aside,
+.scaffold-layout__aside,  /*Right side panel with "news"*/
 .feed-identity-module__anchored-widget--premium-upsell,
 .artdeco-dropdown__trigger,
-.feed-identity-module__widgets
+.feed-identity-module__widgets,
+.share-box-feed-entry__closed-share-box, /*Start a post*/
 .community-panel {
 	display: none !important;
 }

@@ -1,7 +1,8 @@
-.artdeco-card {
+.scaffold-finite-scroll--infinite,  /* Contains all the network suggestions */
+.pv4, /*This is a risky one, it is just vertical padding, but it seems to catch "celebrations".*/
+.discover-cohort-view--list-item,
+.mn-discovery__header,
+.mn-abi-form__container, /*Creepy request to import contacts*/
+.discover-fluid-entity-list {
 	display: none !important;
-}
-.mn-community-summary__section,
-.mn-invitations-preview {
-	display: block !important;
 }
